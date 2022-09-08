@@ -12,7 +12,7 @@ import org.testng.Reporter;
 public class RegisterTheUserWithEndToEndFlow {
 	public WebDriver driver;
 
-// updated by pankaj
+         // updated by pankaj.
 	// Assign the values
 	String url = "https://nxtgenaiacademy.com/";
 	String firstNameValue = "PANKAJ";
